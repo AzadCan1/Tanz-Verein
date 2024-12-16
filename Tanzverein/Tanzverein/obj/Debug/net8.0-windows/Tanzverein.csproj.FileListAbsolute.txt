@@ -1,0 +1,6 @@
+C:\Users\Azad Can polat\Desktop\Tanzverein\Tanzverein\Tanzverein\obj\Debug\net8.0-windows\Tanzverein.Form1.resources
+C:\Users\Azad Can polat\Desktop\Tanzverein\Tanzverein\Tanzverein\obj\Debug\net8.0-windows\Tanzverein.csproj.GenerateResource.cache
+C:\Users\Azad Can polat\Desktop\Tanzverein\Tanzverein\Tanzverein\obj\Debug\net8.0-windows\Tanzverein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azad Can polat\Desktop\Tanzverein\Tanzverein\Tanzverein\obj\Debug\net8.0-windows\Tanzverein.AssemblyInfoInputs.cache
+C:\Users\Azad Can polat\Desktop\Tanzverein\Tanzverein\Tanzverein\obj\Debug\net8.0-windows\Tanzverein.AssemblyInfo.cs
+C:\Users\Azad Can polat\Desktop\Tanzverein\Tanzverein\Tanzverein\obj\Debug\net8.0-windows\Tanzverein.csproj.CoreCompileInputs.cache
